@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    background-color: #E6E6E6;    ;
+}
+p {
+    font-weight: bold;
+}
+.titulo{
+    text-align: center;
+    font-size: xx-large;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+.titulos{
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: left;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+.info{
+    text-align: center;
+    color: aliceblue;
+    background-color: #005677;
+}
